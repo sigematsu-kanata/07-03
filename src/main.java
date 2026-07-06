@@ -6,6 +6,7 @@ public class main {
 		System.out.println("main");
 		System.out.println("ma");
 		System.out.println("02");
+		System.out.println("03");
 	}
 
 }
