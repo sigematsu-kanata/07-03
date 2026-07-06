@@ -5,7 +5,7 @@ public class main {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("main");
 		System.out.println("ma");
-		
+		System.out.println("02");
 	}
 
 }
